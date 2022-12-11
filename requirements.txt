@@ -1,0 +1,8 @@
+# in M1 macOS it is better to use tensorflow-metal
+# tensorflow
+imutils
+matplotlib
+scikit-learn
+keras
+opencv-python
+numpy==1.21.6
